@@ -2,7 +2,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,django,tailwind,laravel&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,mongodb,wordpress,nodejs,aws,prettier&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,mongodb,wordpress,nodejs,aws&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,bash,json,postgresql,mysql,haskell,powershell,markdown&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
