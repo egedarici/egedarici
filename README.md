@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=egedarici&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=egedarici&data=followers,repositories,commits)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,django,tailwind,laravel&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
